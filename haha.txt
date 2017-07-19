@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
 z
 asd
 sheshi yichang aaaa
+=======
+today is a bad day.
+>>>>>>> Stashed changes
